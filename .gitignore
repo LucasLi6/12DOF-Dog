@@ -1,0 +1,31 @@
+# ===== Keil uVision build output =====
+Objects/
+Listings/
+DebugConfig/
+
+# ===== Keil uVision user / IDE state =====
+*.uvguix.*
+*.uvoptx
+*.bak
+*.dep
+*.crf
+*.d
+*.o
+*.axf
+*.hex
+*.htm
+*.lst
+*.map
+*.iex
+*.sct
+*.tmp
+*.lnp
+*.plg
+
+# ===== Editor / IDE config =====
+.vscode/
+.trae/
+
+# ===== OS =====
+Thumbs.db
+Desktop.ini
