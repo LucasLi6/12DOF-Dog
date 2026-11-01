@@ -28,8 +28,7 @@ for facial expressions, and an MPU6050 IMU for attitude sensing.
 
 - **Standing self-balancing** — PID gains (`P` / `I` / `D`) are already received
   from the phone mini-program (control IDs 22–24) but are not yet wired into a
-  closed-loop balance controller. The plan is documented in
-  [`main自平衡计划.txt`](main自平衡计划.txt). The MPU6050 pitch/roll convention is:
+  closed-loop balance controller. The MPU6050 pitch/roll convention is:
   `pitch > 0` when the head tips down, `roll > 0` when the body leans right.
 
 ---
